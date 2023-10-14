@@ -1,0 +1,32 @@
+[
+        {
+            "name": "Mark85",
+            "models": "https://raw.githubusercontent.com/ravendano014/Iron-Man-Mark-85/main/",
+            "parts": [
+        {
+            "mesh_id": "ukaq",
+            "mesh_name": "Bicep-7.stl",
+            "position": [
+            {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+            ],
+            "rotation": [
+            {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+            ],
+            "color": [
+            {
+                "r": 0.9607843137254902,
+                "g": 0.6078431372549019,
+                "b": 0
+            }
+            ]
+        }
+    ]
+}]
